@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mars 👋</h1>
+<h1 align="center">Hi, I'm Mars</h1>
 <h3 align="center">Computer Programming Student · Full-Stack & Systems Developer</h3>
 
 <p align="center">
@@ -10,11 +10,11 @@
 
 ### About Me
 
-- 🎓 Computer Programming diploma student at **Georgian College** (Barrie, ON) — Sep 2025 to Apr 2027, Dean's List
-- 🤖 Java programming mentor for **Grizzly Gears FRC Team 9580**
-- 💼 Actively seeking **Fall 2026 co-op** placements in software development / systems
-- 🌐 Comfortable across the stack — from React front ends to Linux/networking fundamentals
-- 📫 Reach me via [my portfolio](https://magpie512.netlify.app) <!-- or swap in your email / LinkedIn -->
+- Computer Programming diploma student at **Georgian College** (Barrie, ON) — Sep 2025 to Apr 2027, Dean's List
+- Java programming mentor for **Grizzly Gears FRC Team 9580**
+- Actively seeking **Fall 2026 co-op** placements in software development / systems
+- Comfortable across the stack — from React front ends to Linux/networking fundamentals
+- Reach me via [my portfolio](https://magpie512.netlify.app) <!-- or swap in your email / LinkedIn -->
 
 ---
 
@@ -61,15 +61,6 @@
 - Set up SSH/SFTP access (OpenSSH) on a Windows host for secure remote file transfer
 - Hands-on incident response experience: identifying and removing a malware infection (process auditing, persistence checks, Malwarebytes remediation)
 - Comfortable working across Docker-based Linux environments for development and testing
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MIBriggs500&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIBriggs500&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
