@@ -1,6 +1,4 @@
-Special repository from the great [abozanona](https://abozanona.github.io/pacman-contribution-graph/)
-
-
+* Mars Briggs
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MIBriggs500/MIBriggs500/output/minesweeper-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MIBriggs500/MIBriggs500/output/minesweeper-contribution-graph.svg">
