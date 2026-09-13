@@ -1,26 +1,29 @@
-<h1 align="center">Hi, I'm Mars</h1>
-<h3 align="center">Computer Programming Student · Full-Stack & Systems Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://magpie512.netlify.app"><img src="https://img.shields.io/badge/Portfolio-magpie512.netlify.app-c96f4a?style=flat-square" alt="Portfolio"/></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Fall%202026%20Co--op-2ea44f?style=flat-square" alt="Open to co-op"/>
-</p>
+# Hi, I'm Mars
+### Computer Programming Student · Full-Stack & Systems Developer
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-magpie512.netlify.app-c96f4a?style=flat-square)](https://magpie512.netlify.app)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Fall%202026%20Co--op-2ea44f?style=flat-square)
+
+</div>
 
 ---
 
-### About Me
+## About Me
 
 - Computer Programming diploma student at **Georgian College** (Barrie, ON) — Sep 2025 to Apr 2027, Dean's List
 - Java programming mentor for **Grizzly Gears FRC Team 9580**
 - Actively seeking **Fall 2026 co-op** placements in software development / systems
 - Comfortable across the stack — from React front ends to Linux/networking fundamentals
-- Reach me via [my portfolio](https://magpie512.netlify.app) <!-- or swap in your email / LinkedIn -->
+- Reach me via [my portfolio](https://magpie512.netlify.app)
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,6 +32,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks & Tools**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -36,6 +40,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Infrastructure & Platform**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -43,20 +48,38 @@
 
 ---
 
-### Featured Projects
+## Featured Projects
 
-| Project | Description |
-|---|---|
-| **[Portfolio Site](https://magpie512.netlify.app)** | Personal site with a custom `tegaki-renderer` web component for animated handwriting and a hand-built glassmorphism UI |
-| **PhoneMouse** | Android app turning a phone into a Bluetooth HID mouse — accelerometer-based cursor control via Kotlin and the `BluetoothHidDevice` API |
-| **Vencord Plugin Suite** | A set of custom plugins for the Vencord Discord client (`PopoutDM`, `PopoutChatbox`, `PopoutVideo`, `RoleplayProfiles`), built and tested in Docker-based dev environments |
-| **ASP.NET Core + Azure SQL** | End-to-end integration guide/build connecting an ASP.NET MVC app to Azure SQL |
-| **The Minish Cap Decompilation** | Contributed to reverse-engineering/decompiling *Zelda: The Minish Cap*, including custom D-Pad control patches ported to *Phantom Hourglass* and *Spirit Tracks* |
-| **Automation Scripting** | Python bots for algorithmic problems (grid traversal, crop-rotation optimization, maze solving via DFS/Trémaux's algorithm, shear-sort based grid sorting) |
+<table>
+<tr>
+<td width="30%"><strong><a href="https://magpie512.netlify.app">Portfolio Site</a></strong></td>
+<td>Personal site with a custom <code>tegaki-renderer</code> web component for animated handwriting and a hand-built glassmorphism UI</td>
+</tr>
+<tr>
+<td><strong>PhoneMouse</strong></td>
+<td>Android app turning a phone into a Bluetooth HID mouse — accelerometer-based cursor control via Kotlin and the <code>BluetoothHidDevice</code> API</td>
+</tr>
+<tr>
+<td><strong>Vencord Plugin Suite</strong></td>
+<td>Custom plugins for the Vencord Discord client (<code>PopoutDM</code>, <code>PopoutChatbox</code>, <code>PopoutVideo</code>, <code>RoleplayProfiles</code>), built and tested in Docker-based dev environments</td>
+</tr>
+<tr>
+<td><strong>ASP.NET Core + Azure SQL</strong></td>
+<td>End-to-end integration guide/build connecting an ASP.NET MVC app to Azure SQL</td>
+</tr>
+<tr>
+<td><strong>The Minish Cap Decompilation</strong></td>
+<td>Contributed to reverse-engineering/decompiling <em>Zelda: The Minish Cap</em>, including custom D-Pad control patches ported to <em>Phantom Hourglass</em> and <em>Spirit Tracks</em></td>
+</tr>
+<tr>
+<td><strong>Automation Scripting</strong></td>
+<td>Python bots for algorithmic problems (grid traversal, crop-rotation optimization, maze solving via DFS/Trémaux's algorithm, shear-sort based grid sorting)</td>
+</tr>
+</table>
 
 ---
 
-### Networking & Systems
+## Networking & Systems
 
 - Set up SSH/SFTP access (OpenSSH) on a Windows host for secure remote file transfer
 - Hands-on incident response experience: identifying and removing a malware infection (process auditing, persistence checks, Malwarebytes remediation)
@@ -65,7 +88,7 @@
 ---
 
 <details>
-<summary>🎮 Fun extra: my contribution graph as Minesweeper</summary>
+<summary><strong>Fun extra: my contribution graph as Minesweeper</strong></summary>
 <br>
 
 <picture>
