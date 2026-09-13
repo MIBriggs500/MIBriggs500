@@ -16,7 +16,7 @@
 - Java programming mentor for **Grizzly Gears FRC Team 9580**
 - Actively seeking **Fall 2026 co-op** placements in software development / systems
 - Comfortable across the stack — from React front ends to Linux/networking fundamentals
-- Reach me via [my portfolio](https://magpie512.netlify.app)
+- Reach me via [email](mailto:mibriggspersonal@gmail.com)
 
 ---
 
